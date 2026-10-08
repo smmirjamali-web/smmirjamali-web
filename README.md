@@ -1,49 +1,54 @@
-<h1 align="center">👋 Hi There, Welcome to My GitHub</h1>
+<h1 align="center">Hi, I'm Mahdi Mirjamali 👋</h1>
 
 <p align="center">
-I'm currently learning <b>Python</b>, <b>Django</b>, and <b>Linux</b> — and I’m also interested in <b>Network Security</b>.  
-This GitHub profile is where I share my journey as I learn and build new things.
+  <b>Python & Django Backend Developer</b><br>
+  Building clean, maintainable backend applications and REST APIs.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahdi-mirjamali-06b423415/">LinkedIn</a>
+  •
+  <a href="mailto:smmirjamali@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- 🐍 Python Programming  
-- 🌐 Django Framework  
-- 🐧 Linux & Command Line  
-- 🔐 Network & Security Basics  
+## About Me
 
----
+I'm a Python and Django backend developer focused on building web applications, REST APIs, and reliable backend systems.
 
-## 🧪 What You’ll Find Here
-- Beginner-friendly practice projects  
-- Small tools & experimental scripts  
-- Learning-based repositories  
-- Things I build while improving step-by-step  
+I enjoy working with databases, API design, authentication, and the practical details involved in developing and deploying web applications.
 
----
+## Tech Stack
 
-## 🎯 My Goals
-- Build a strong foundation in Python & Django  
-- Get comfortable with Linux  
-- Learn more about security and networking  
-- Gradually move toward more advanced projects  
+* **Languages:** Python, JavaScript
+* **Backend:** Django, Django REST Framework
+* **Databases:** PostgreSQL, SQLite
+* **Tools & Environment:** Git, GitHub, Linux
+* **Currently exploring:** Redis, Celery, and deployment workflows
 
----
+## Featured Projects
 
-## ✨ Note
-This profile is **part of my learning journey** — many projects here are practice-based and will improve over time.
+### ☕ ShahinCaffe
 
----
+A café management project with a Django backend. The project covers backend functionality for areas such as menu management, orders, payments, and notifications.
 
-## 🤝 Connect with Me
+### 🎓 Education Management System
 
-I'm always open to connecting with fellow developers and learning from others!
+A Django-based education management project focused on users, schools, academic terms, classes, teachers, permissions, and reporting.
 
-- **LinkedIn:** [Mahdi Mirjamali](https://www.linkedin.com/in/mahdi-mirjamali-06b423415/)
+## What I Focus On
 
-- **Email:** smmirjamali@gmail.com
+* Building maintainable Django applications
+* Designing REST APIs
+* Modeling relational databases
+* Implementing authentication and permissions
+* Improving code quality and reliability
+* Learning through practical projects
 
-Feel free to reach out for collaboration, feedback, or just a chat! 😊
+## Connect
 
-<p align="center">Thanks for visiting my profile 🌿</p>
+* **LinkedIn:** [Mahdi Mirjamali](https://www.linkedin.com/in/mahdi-mirjamali-06b423415/)
+* **Email:** [smmirjamali@gmail.com](mailto:smmirjamali@gmail.com)
+
+<p align="center">Thanks for visiting my profile 🚀</p>
